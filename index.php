@@ -260,8 +260,8 @@ include "conf/conn.php";
               <!-- User Account: style can be found in dropdown.less -->
               <li class="dropdown user user-menu">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                  <img src="dist/img/sitirohaya.jpg" class="user-image" alt="User Image">
-                  <span class="hidden-xs">Siti Rohaya</span>
+                  <img src="dist/img/avatar.png" class="user-image" alt="User Image">
+                  <span class="hidden-xs">Angga Jr</span>
                 </a>
                 <ul class="dropdown-menu">
                   <!-- User image -->
@@ -310,10 +310,10 @@ include "conf/conn.php";
           <!-- Sidebar user panel -->
           <div class="user-panel">
             <div class="pull-left image">
-              <img src="dist/img/logo-unbaja.png" class="img-circle" alt="User Image">
+              <img src="dist/img/photo3.jpg" class="img-circle" alt="User Image">
             </div>
             <div class="pull-left info">
-              <p>UNBAJA UNIVERSITY</p>
+              <p>ANGGA JR</p>
               <a href="#"><i class="fa fa-circle text-success"></i> Online</a>
             </div>
           </div>
